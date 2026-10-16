@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Jyoti Chherki
 
-<!--
-**jyotichherki/jyotichherki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 3rd Year B.Tech CSE (BC) Student
+### 💻 Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about
+web development and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning React, JavaScript, TypeScript and Java
+- 💻 Interested in Frontend Development
+- 🛠️ Projects: Amazon Clone, Todo App, Weather App, Gemini Clone
+- 🎯 Goal: To secure a Frontend Developer Internship
+- 📫 Email: jyotichherki787@gmail.com
+
+### 🧰 Skills & Technologies
+
+HTML |Tailwind CSS | JavaScript | React | TypeScript |Angular| | Java | Git | GitHub
+
+### 🚀 My Projects
+- portfolio
+- Agency-Ai
+- Gemini-clone
+- youtube-clone
+- Review Page
+- Amazon Clone
+- Todo App
+- Weather App
+- Gemini Clone
+- Calculator
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/jyotichherki
